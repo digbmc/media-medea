@@ -6,8 +6,12 @@ body {
   line-height: 1.5;
 }
 
+content {
+  text-align: left;
+}
+
 h1 {
-  font-size: 3em;
+  font-size: 2em;
   margin: .5em auto;
 }
 
@@ -38,8 +42,9 @@ h5 {
 }
 
 h6 {
+  max-width: 42em;
   font-size: .875em;
-  font-style: italic;
+  padding-bottom: 4em;
   margin: 2.25em auto;
   text-align: center;
 }

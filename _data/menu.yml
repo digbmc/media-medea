@@ -1,8 +1,8 @@
-- title: Script
-  url: /script.html
-
-- title: Calendar
-  url: /calendar.html
-
 - title: About
   url: /about.html
+
+- title: Calendar
+  url: /calendar
+
+- title: Medea
+  url: /script.html
