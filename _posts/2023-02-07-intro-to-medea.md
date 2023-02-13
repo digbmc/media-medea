@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Brief Introduction to Euripides Medea"
+title: "A Brief Introduction to Euripides' Medea"
 author: "Audrey Wallace"
 categories: 
 ---
