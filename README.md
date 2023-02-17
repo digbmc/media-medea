@@ -2,6 +2,8 @@
 
 Repository for Greek Drama, Black Lives website project
 
+For documentation on the Hitchens theme, see [theme-docs.md].
+
 ## Git workflow instructions
 
 Whenever you contribute to this repository, please follow these instructions:
