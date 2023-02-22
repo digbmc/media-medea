@@ -2,6 +2,7 @@
   box-sizing: border-box;
   position: relative;
   text-align: center;
+  background-color: $lime;
 }
 
 .site-masthead h1 {
@@ -18,7 +19,7 @@
   font-size: 2.5em;
   margin-bottom: 0;
   margin-top: 1em;
-  padding: 0 2rem;
+  padding: 0 1rem;
   @media (min-width: $on-tablet) {
     font-size: 3em;
   }
