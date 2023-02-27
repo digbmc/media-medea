@@ -19,7 +19,7 @@ The *Medea* picks up with their domestic life in Corinth many years later as Jas
 
 ### Places Mentioned in this Post
 
-![Map showing locations of Athens, Colchis, Corinth, and Iolkos.](/assets/images/blog1_places.jpg)
+![Map showing locations of Athens, Colchis, Corinth, and Iolkos.]({{ site.baseurl }}/assets/images/blog1_places.jpg)
 
 ### Learn More
 
