@@ -15,16 +15,23 @@
 }
 
 .post > h1 {
-  font-size: 2em;
+  font-size: 1.5em;
   max-width: 48rem;
-  padding: 2em 1em;
+  padding: 1em 1em;
   text-align: center;
+  @media (min-width: $on-tablet) {
+    font-size: 2em;
+  }
 }
 
 .post p {
   // text-align: justify;
-  text-indent: 1.5em;
+  //text-indent: 1.5em;
   // text-justify: inter-word;
+  font-size: .875em;
+  @media (min-width: $on-tablet) {
+    font-size: 1em;
+  }
 }
 
 .post p:first-of-type,
@@ -43,12 +50,16 @@
 }
 
 .post li {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
+  // margin-left: 1.5rem;
+  // margin-right: 1.5rem;
+  font-size: .875em;
+  @media (min-width: $on-tablet) {
+    font-size: 1em;
+  }
 }
 
 .post-content:first-child {
-  margin-top: 4em;
+  margin-top: 3em;
 }
 
 .post-meta {
