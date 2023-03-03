@@ -13,8 +13,12 @@
   max-width: 42em;
   margin: 1em auto;
   background-color: $orangey;
-  border-radius: 25px;
-  padding: .25em .5em;
+  border-radius: 15px;
+ 
+  @media (min-width: $on-tablet) {
+    border-radius: 25px;
+    padding: .25em .5em;
+  }
 }
 
 .post-link {
@@ -40,7 +44,7 @@
 
 .post-link__heading {
   display: block;
-  margin-right: 2em;
+  // margin-right: 2em;
   @media (min-width: $on-tablet) {
     padding: .25em 0;
   }
@@ -62,7 +66,7 @@
 }
 
 .post-pagination {
-  margin-top: 4rem;
+  margin-top: 3rem;
   font-size: .75em;
   display: flex;
   flex-direction: row;

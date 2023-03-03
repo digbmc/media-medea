@@ -22,7 +22,7 @@
 .site-navigation li {
   list-style: none;
   font-size: .875em;
-  //width: 15%;
+  
   // font-variant: small-caps;
   margin: 0;
   &.active a {
@@ -31,6 +31,7 @@
   }
   @media (min-width: $on-tablet) {
     font-size: 1em;
+    width: 15%;
   }
 }
 
