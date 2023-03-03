@@ -44,3 +44,48 @@
     background-color: $purpley;
   }
 }
+
+// Bottom nav
+
+.bottom-navigation {
+  margin-top: .5rem;
+  justify-content:center;
+  &:hover,
+  &:focus-within {
+    a {
+      opacity: .7;
+    }
+  }
+}
+
+.bottom-navigation ul {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.bottom-navigation li {
+  list-style: none;
+  font-size: .875em;
+  // font-variant: small-caps;
+  margin: 0;
+  &.active a {
+    text-decoration: underline;
+    //background-color: $teal;
+  }
+}
+
+.bottom-navigation a {
+  display: block;
+  padding: .25em .5em;
+  //background-color: $pink;
+  text-decoration: none;
+
+  transition: opacity .125s ease-in-out;
+  &:hover,
+  &:focus {
+    opacity: 1;
+    background-color: $purpley;
+  }
+}
