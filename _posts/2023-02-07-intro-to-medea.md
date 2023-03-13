@@ -3,6 +3,7 @@ layout: post
 title: "A Brief Introduction to Euripides' Medea"
 author: "Audrey Wallace"
 categories: 
+publish: True
 ---
 
 ## Euripidean Tragedy
