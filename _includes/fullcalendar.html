@@ -1,0 +1,76 @@
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar/index.global.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const calendarEl = document.getElementById("calendar");
+      const calendar = new FullCalendar.Calendar(calendarEl, {
+        initialView: "dayGridMonth",
+        initialDate: "2023-12-20",
+        headerToolbar: {
+          left: "prev,next",
+          center: "title",
+          right: "dayGridMonth,timeGridDay,listWeek",
+        },
+        events: [
+          {
+            title:
+              "James Ijames, “On Adapting Medea: A Conversation with Ava Shirazi”",
+            location: "Carpenter Library B21, Bryn Mawr College",
+            start: "2023-12-22T16:30:00",
+            end: "2023-12-22T17:30:00",
+          },
+          {
+            title:
+              "Asya Sigelman (Bryn Mawr College) & Kathleen Murphey (Community College of Philadelphia) in Conversation on Myth, Medea, and Greek Tragedy",
+            location: "Winnet Student Life Building Room S-2-3",
+            start: "2024-01-27T13:00:00",
+            end: "2024-01-27T14:00:00",
+          },
+          {
+            title:
+              "Marcus Folch (Columbia University), “Prison Before Race: Classical Athens and the History of Incarceration”",
+            location: "Carpenter Library B21",
+            start: "2024-02-03T16:30:00",
+            end: "2024-02-03T17:30:00",
+          },
+          {
+            title: "Mini Myth Fest",
+            location: "Goodhart Hall Common Room, Bryn Mawr College",
+            start: "2024-02-25T18:00:00",
+            end: "2024-02-25T21:00:00",
+          },
+          {
+            title:
+              "Helen Morales (University of California, Santa Barabara), “Sacrifice, Solidarity, and Survival in Wayne Shorter and Esperanza Spalding’s Opera …(Iphigenia), and the Art of Harmonia Rosales”",
+            location: "Carpenter Library B21, Bryn Mawr College",
+            start: "2024-03-17T16:30:00",
+            end: "2024-03-17T17:30:00",
+          },
+          {
+            title: "Medea Performance",
+            location: "Hepburn Teaching Theater, Bryn Mawr College",
+            start: "2024-04-13T19:30:00",
+            end: "2024-04-16T21:30:00",
+          },
+          {
+            title:
+              "Mario Telò (University of California, Berkeley), “Medea’s Marine Mother: Reading Alice Diop’s Saint Omer”",
+            location: "Carpenter Library B21, Bryn Mawr College",
+            start: "2024-04-14T16:30:00",
+            end: "2024-04-14T17:30:00",
+          },
+          {
+            title: "Medea Performance",
+            location: "Community College of Philadelphia",
+            start: "2024-04-20",
+            end: "2024-04-22",
+          },
+        ],
+      });
+      calendar.render();
+    });
+  </script>
+</head>
+<body>
+  <div id="calendar"></div>
+</body>
