@@ -17,10 +17,12 @@ title: Greek Drama/Black Lives
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Intergenerational Collaboration in Philadelphia
-baseurl: "/gd-bl" # the subpath of your site, e.g. /blog
+baseurl: "/media-medea" # the subpath of your site, e.g. /blog
 url: "https://digbmc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 github_username:  digbmc
+hide_credits: true
+# show_excerpts: true
 
 # Build settings
 markdown: kramdown

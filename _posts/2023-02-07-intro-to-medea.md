@@ -3,6 +3,7 @@ layout: post
 title: "A Brief Introduction to Euripides' Medea"
 author: "Audrey Wallace"
 categories: 
+publish: True
 ---
 
 ## Euripidean Tragedy
@@ -16,6 +17,10 @@ The *Medea* tells the story of the tragic and violent breakdown of the marriage 
 ### Euripides' *Medea*
 
 The *Medea* picks up with their domestic life in Corinth many years later as Jason plans on making a new politically advantageous marriage to the daughter of the Corinthian king Creon, abandoning Medea and threatening the status of their two children. Tension grows as Medea prepares for exile, ordered by Creon, lest Medea turn her magic against them. The Athenian king Aegeus offers her refuge, allowing Medea to plan her vengeance and her escape. Feigning peace with Jason, Medea poisons a robe and crown and has her children deliver it to Jason’s fiancée. But Medea’s revenge is not complete with the princess’ death and so she murders Jason’s only heirs, her own children, before escaping on a flying chariot. Though the rest of the play would have taken place on a semi-circular stage, for Medea’s final triumph, she would have emerged on a crane, called a *mechane*, above the stage (a staging potentially invented by Euripides and generally reserved for a divine appearance, from which the phrase *deus ex machina* originated).
+
+### Places Mentioned in this Post
+
+![Map showing locations of Athens, Colchis, Corinth, and Iolkos.]({{ site.baseurl }}/assets/images/blog1_places.jpg)
 
 ### Learn More
 

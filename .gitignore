@@ -5,3 +5,12 @@
 _site
 Gemfile.lock
 vendor
+.DS_Store
+<<<<<<< HEAD
+.gitignore
+.github/*
+=======
+_sass/.DS_Store
+.gitignore
+.github/
+>>>>>>> main

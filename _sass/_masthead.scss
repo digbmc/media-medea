@@ -2,15 +2,27 @@
   box-sizing: border-box;
   position: relative;
   text-align: center;
+  // background-color: $lime;
 }
 
-.site-masthead h1 {
-  font-size: 3em;
+.site-masthead p {
+  font-size: 1em;
+  font-weight: bold;
   margin-bottom: 0;
   margin-top: 1em;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
-    font-size: 4em;
+    font-size: 1.5em;
+  }
+}
+
+.site-masthead-home h1 {
+  font-size: 1.75em;
+  margin-bottom: 0;
+  margin-top: 1em;
+  padding: 0 1rem;
+  @media (min-width: $on-tablet) {
+    font-size: 3em;
   }
 }
 
@@ -24,10 +36,10 @@
 
 .site-masthead h2 {
   color: $muted-text-color;
-  font-size: 1.25em;
+  font-size: 1.125em;
   margin: 0;
-  padding: 0 2rem;
+  padding: 0 1rem;
   @media (min-width: $on-tablet) {
-    font-size: 1.75em;
+    font-size: 1.5em;
   }
 }

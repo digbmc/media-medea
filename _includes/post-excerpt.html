@@ -1,7 +1,10 @@
 {% capture excerpt %}
   {{ post.excerpt | replace: "<p>", "" | replace: "</p>", "" }}
+  
 {% endcapture %}
-
+<!-- {% capture excerpt %}
+  {{ post.excerpt | replace: "<h2>", "" | replace: "</h2>", "" }}
+{% endcapture %} -->
 {% if site.excerpt_length %}
   {% assign excerpt_length = site.excerpt_length %}
 {% else %}
