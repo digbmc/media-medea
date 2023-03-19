@@ -1,69 +1,153 @@
 <head>
+  <!-- 
+    Display description for events
+    Show the list of events as they follow each other -->
+  <style>
+    #calendar {
+      max-width: 900px;
+      margin: 40px auto;
+    }
+    .fc-daygrid-day {
+      height: 80px;
+      width: 120px;
+    }
+  </style>
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar/index.global.min.js"></script>
+
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      const calendarEl = document.getElementById("calendar");
-      const calendar = new FullCalendar.Calendar(calendarEl, {
+      var calendarEl = document.getElementById("calendar");
+      var calendar = new FullCalendar.Calendar(calendarEl, {
         initialView: "dayGridMonth",
-        initialDate: "2023-12-20",
-        headerToolbar: {
-          left: "prev,next",
-          center: "title",
-          right: "dayGridMonth,timeGridDay,listWeek",
+        initialDate: "2023-01-01",
+        //color
+        eventColor: "white",
+
+        eventDidMount: function (info) {
+          const element = info.el;
+          const title = info.event.extendedProps.description;
+
+          // Set the title attribute to display the description as a tooltip
+          element.setAttribute("title", title);
+
+          // Set the background color and text color
+          element.style.backgroundColor = "green";
+          element.style.color = "#fff";
+
+          // Add a popup description on hover
+          element.addEventListener("mouseover", function () {
+            // Create the popup description element
+            const popup = document.createElement("div");
+            popup.className = "popup";
+            popup.textContent = title;
+            document.body.appendChild(popup);
+
+            // Position the popup description relative to the element
+            const rect = element.getBoundingClientRect();
+            popup.style.top = rect.bottom + "px";
+            popup.style.left = rect.left + "px";
+          });
+
+          // Remove the popup description when the mouse leaves the element
+          element.addEventListener("mouseleave", function () {
+            const popup = document.querySelector(".popup");
+            if (popup) {
+              document.body.removeChild(popup);
+            }
+          });
         },
+
+        editable: true,
+        selectable: true,
+        headerToolbar: {
+          left: "prev,next, today",
+          center: "title",
+          right: "dayGridMonth,listYear",
+        },
+
         events: [
           {
             title:
               "James Ijames, “On Adapting Medea: A Conversation with Ava Shirazi”",
-            location: "Carpenter Library B21, Bryn Mawr College",
+            description: "Carpenter Library B21, Bryn Mawr College",
             start: "2023-12-22T16:30:00",
             end: "2023-12-22T17:30:00",
           },
           {
             title:
               "Asya Sigelman (Bryn Mawr College) & Kathleen Murphey (Community College of Philadelphia) in Conversation on Myth, Medea, and Greek Tragedy",
-            location: "Winnet Student Life Building Room S-2-3",
-            start: "2024-01-27T13:00:00",
-            end: "2024-01-27T14:00:00",
+            description: "Winnet Student Life Building Room S-2-3",
+            start: "2023-01-27T13:00:00",
+            end: "2023-01-27T14:00:00",
           },
           {
             title:
               "Marcus Folch (Columbia University), “Prison Before Race: Classical Athens and the History of Incarceration”",
-            location: "Carpenter Library B21",
-            start: "2024-02-03T16:30:00",
-            end: "2024-02-03T17:30:00",
+            description: "Carpenter Library B21",
+            start: "2023-02-03T16:30:00",
+            end: "2023-02-03T17:30:00",
           },
           {
             title: "Mini Myth Fest",
-            location: "Goodhart Hall Common Room, Bryn Mawr College",
-            start: "2024-02-25T18:00:00",
-            end: "2024-02-25T21:00:00",
+            description: "Goodhart Hall Common Room, Bryn Mawr College",
+            start: "2023-02-25T18:00:00",
+            end: "2023-02-25T21:00:00",
           },
           {
             title:
               "Helen Morales (University of California, Santa Barabara), “Sacrifice, Solidarity, and Survival in Wayne Shorter and Esperanza Spalding’s Opera …(Iphigenia), and the Art of Harmonia Rosales”",
-            location: "Carpenter Library B21, Bryn Mawr College",
-            start: "2024-03-17T16:30:00",
-            end: "2024-03-17T17:30:00",
+            description: "Carpenter Library B21, Bryn Mawr College",
+            start: "2023-03-17T16:30:00",
+            end: "2023-03-17T17:30:00",
           },
           {
             title: "Medea Performance",
-            location: "Hepburn Teaching Theater, Bryn Mawr College",
-            start: "2024-04-13T19:30:00",
-            end: "2024-04-16T21:30:00",
+            description: "Hepburn Teaching Theater, Bryn Mawr College",
+            start: "2023-04-13T19:30:00",
+            end: "2023-04-13T21:30:00",
+          },
+          {
+            title: "Medea Performance",
+            description: "Hepburn Teaching Theater, Bryn Mawr College",
+            start: "2023-04-14T19:30:00",
+            end: "2023-04-14T21:30:00",
+          },
+          {
+            title: "Medea Performance",
+            description: "Hepburn Teaching Theater, Bryn Mawr College",
+            start: "2023-04-15T19:30:00",
+            end: "2023-04-15T21:30:00",
+          },
+          {
+            title: "Medea Performance",
+            description: "Hepburn Teaching Theater, Bryn Mawr College",
+            start: "2023-04-16T19:30:00",
+            end: "2023-04-16T21:30:00",
           },
           {
             title:
               "Mario Telò (University of California, Berkeley), “Medea’s Marine Mother: Reading Alice Diop’s Saint Omer”",
-            location: "Carpenter Library B21, Bryn Mawr College",
-            start: "2024-04-14T16:30:00",
-            end: "2024-04-14T17:30:00",
+            description: "Carpenter Library B21, Bryn Mawr College",
+            start: "2023-04-14T16:30:00",
+            end: "2023-04-14T17:30:00",
           },
           {
             title: "Medea Performance",
-            location: "Community College of Philadelphia",
-            start: "2024-04-20",
-            end: "2024-04-22",
+            description: "Community College of Philadelphia",
+            start: "2023-04-20T00:00:00",
+            end: "2023-04-20T23:59:59",
+          },
+          {
+            title: "Medea Performance",
+            description: "Community College of Philadelphia",
+            start: "2023-04-21T00:00:00",
+            end: "2023-04-21T23:59:59",
+          },
+          {
+            title: "Medea Performance",
+            description: "Community College of Philadelphia",
+            start: "2023-04-22T00:00:00",
+            end: "2023-04-22T23:59:59",
           },
         ],
       });
