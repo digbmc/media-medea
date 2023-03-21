@@ -6,7 +6,7 @@ categories:
 publish: True
 ---
 
-## Euripidean Tragedy
+### Euripidean Tragedy
 
 Originally performed in 431 BCE, the *Medea* is perhaps the most famous play by Euripides, one of the three great Greek tragedians (along with Sophocles and Aeschylus). Euripides was known for his innovative style, his engagement with the intellectual and philosophical debates of contemporary Athens, and the realistic emotional stakes he placed on the decisions made by the mythic figures on stage. The original audience of the play would have watched as masked male performers spoke the dialogue in meter, scenes interspersed with a singing and dancing Chorus which would have established the themes of the performance and addressed the poetic and mythic impact of the story. The *Medea* was staged at the Great Dionysia, a week-long festival held every spring in Athens during which three playwrights would present their work. At the end of the festival, a panel would determine the winner, and though Euripides won third place when the *Medea* was first performed, it is uncertain whether this was due to stiff competition or the potentially controversial interpretation of the myth as depicted. 
 
