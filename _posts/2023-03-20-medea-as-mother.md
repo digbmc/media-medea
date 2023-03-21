@@ -13,6 +13,7 @@ Medea was many things: a Colchian princess, the granddaughter of the sun god, an
 |![Image of Medea and children from a production of *Medea* directed by Mark Stringham.]({{ site.baseurl }}/assets/images/blog2_medea.jpg)|
 |:--:|
 |Georgette Lockwood in Medea, directed by Mark Stringham at the Classic Theatre of San Antonio, from November 6th - November 29th 2015. Photo by Siggi Ragnan, 2015. Courtesy of the Classic Theatre of San Antonio.|
+|:--:|
 
 In order to set up this tragic ending, Euripides emphasizes Medea’s role as mother throughout the play, often in ways which draw attention to her looming agonizing choice. At the opening of the play, the children’s nurse describes her fear regarding the safety of the children in the face of Medea’s cold rage. In Medea’s first appearance in the play, after she has just learned she is to be abandoned and exiled by her husband Jason, she ties the unfair lot of hers to her gender, famously proclaiming that she wishes she had been born a man, preferring to go into battle three times rather than experience childbirth once.[^2]  She vacillates between rage at this betrayal and despair at her hopeless situation, vowing to enact vengeance one minute and begging Jason to take care of their children, saving them from sharing her exile, the next. Medea’s violence and her role as mother are inextricable from one another.
 
@@ -21,6 +22,7 @@ In order to set up this tragic ending, Euripides emphasizes Medea’s role as mo
 |![Image of a red-figure vase depiciting Jason and Medea standing in a temple structure with their childen illustrated below this structure sitting on a couch.]({{ site.baseurl }}/assets/images/blog2_vase.png)|
 |:--:|
 |Medea and Jason, with their children alive and well beneath them. Red-figure volute krater: Medea at Eleusis, ca. 340-330 B.C.E. Darius Painter. y1983-13, Princeton Unviersity Art Museums. https://artmuseum.princeton.edu/collections/objects/32749 [^3]|
+|:--:|
 
 [^3]: For more information on this vase, refer to this analysis provided by the Princeton University Art Museum: https://artmuseum.princeton.edu/learn/explore/resources/viewers/616845772f361c0018efa1fc
 
