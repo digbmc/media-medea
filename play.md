@@ -29,7 +29,7 @@ An open-access version of Ijames' script will be made available here following t
 
 **Chorus**:
 - Elizabeth Brown
-- Minh Dung Doan
+- Minh Doan
 - Lulu Florea
 - Isiah Jessie
 - Bina Lee
