@@ -19,10 +19,10 @@ In order to set up this tragic ending, Euripides emphasizes Medea’s role as mo
 
 [^2]: Euripides, *Medea* 250-251
 
-|![Image of a red-figure vase depiciting Jason and Medea standing in a temple structure with their childen illustrated below this structure sitting on a couch.]({{ site.baseurl }}/assets/images/blog2_vase.png)|
-|:--:|
-|Medea and Jason, with their children alive and well beneath them. Red-figure volute krater: Medea at Eleusis, ca. 340-330 B.C.E. Darius Painter. y1983-13, Princeton Unviersity Art Museums. https://artmuseum.princeton.edu/collections/objects/32749 [^3]|
-|:--:|
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/blog2_vase.png" alt="Image of a red-figure vase depiciting Jason and Medea standing in a temple structure with their childen illustrated below sitting on a couch."/>
+  <figcaption>Medea and Jason, with their children alive and well beneath them. Red-figure volute krater: Medea at Eleusis, ca. 340-330 B.C.E. Darius Painter. y1983-13, Princeton Unviersity Art Museums. https://artmuseum.princeton.edu/collections/objects/32749 .</figcaption>
+</figure>[^3]
 
 [^3]: For more information on this vase, refer to this analysis provided by the Princeton University Art Museum: https://artmuseum.princeton.edu/learn/explore/resources/viewers/616845772f361c0018efa1fc
 
