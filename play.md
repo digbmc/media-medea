@@ -5,7 +5,6 @@ title: Media/Medea
 
 *Media/Medea* is a play by Pulitzer-winning playwright James Ijames which reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict. 
 
-
 An open-access version of Ijames' script will be made available here following the world premiere of the play at Bryn Mawr College and the Community College of Philadelphia in April 2023. 
 
 ---
