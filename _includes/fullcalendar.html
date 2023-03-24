@@ -11,8 +11,21 @@
       height: 80px;
       width: 120px;
     }
+    .fc-event {
+      height: 100%;
+      width: 100%;
+      padding: 2px;
+      font-size: 12px;
+      overflow: overlay;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      word-wrap: break-word;
+    }
   </style>
+
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar/index.global.min.js"></script>
+  <script src="https://unpkg.com/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+  <script src="https://unpkg.com/tippy.js@6.3.1/dist/tippy-bundle.umd.js"></script>
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -22,43 +35,32 @@
         initialDate: "2023-01-01",
         //color
         eventColor: "white",
+        editable: true,
+        selectable: true,
 
         eventDidMount: function (info) {
           const element = info.el;
-          const title = info.event.extendedProps.description;
-
-          // Set the title attribute to display the description as a tooltip
-          element.setAttribute("title", title);
+          const title = info.event.title;
+          const description = info.event.extendedProps.description;
 
           // Set the background color and text color
           element.style.backgroundColor = "green";
           element.style.color = "#fff";
 
-          // Add a popup description on hover
-          element.addEventListener("mouseover", function () {
-            // Create the popup description element
-            const popup = document.createElement("div");
-            popup.className = "popup";
-            popup.textContent = title;
-            document.body.appendChild(popup);
+          // Combine title and description with a line break
+          const tooltipContent = `<strong>${title}</strong><br>${description}`;
 
-            // Position the popup description relative to the element
-            const rect = element.getBoundingClientRect();
-            popup.style.top = rect.bottom + "px";
-            popup.style.left = rect.left + "px";
-          });
-
-          // Remove the popup description when the mouse leaves the element
-          element.addEventListener("mouseleave", function () {
-            const popup = document.querySelector(".popup");
-            if (popup) {
-              document.body.removeChild(popup);
-            }
+          // Initialize Tippy.js tooltip
+          tippy(element, {
+            content: tooltipContent,
+            allowHTML: true, // Allow HTML content in the tooltip
+            animation: "scale", // Set the animation style
+            duration: 200, // Duration of the animation
+            arrow: true, // Show an arrow pointing to the target element
+            delay: [100, 50], // Delay in milliseconds for showing and hiding the tooltip
           });
         },
 
-        editable: true,
-        selectable: true,
         headerToolbar: {
           left: "prev,next, today",
           center: "title",
