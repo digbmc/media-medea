@@ -45,9 +45,9 @@ Following the world premiere, an open-access version of Ijames' script will be m
 
 **Producer**: Catherine Conybeare
 
-**Director**: Raelle Myrick Hodges
+**Producer & Production Coordinator**, Community College of Philadlephia: Quinn Eli
 
-**Production Coordinator**, Community College of Philadlephia: Quinn Eli
+**Director**: Raelle Myrick Hodges
 
 **Scenic & Costume Designer**: Maiko Matsushima
 
