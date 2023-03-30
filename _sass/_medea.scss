@@ -86,7 +86,26 @@ button {
 //     }
 //   }
 
-//   .calendar-content {
-//    background-color: $purpley;
+#calendar {
+    max-width: 70rem;
+    margin: 40px auto;
+  }
+  .fc-daygrid-day {
+    height: 80px;
+    width: 9rem;
+  }
+ 
+  .fc-list-day-cushion {
+    background-color: $orangey;
+  }
 
-//   }
+  .fc-event {
+    height: 100%;
+    width: 100%;
+    padding: 2px;
+    font-size: 14px;
+    // overflow: overlay;
+    text-overflow: ellipsis;
+    // white-space: nowrap;
+    word-wrap: break-word;
+  }
