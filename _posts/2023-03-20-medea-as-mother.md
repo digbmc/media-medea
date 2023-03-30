@@ -26,9 +26,6 @@ In order to set up this tragic ending, Euripides emphasizes Medea’s role as mo
 
 So then we must ask: if Euripides invented the Medea who purposefully slaughters her children, why arrange the play around this empathetic portrait? This narrative choice sets up the great tragedy of Medea’s story, not necessarily the events themselves, but what Medea’s lack of social power forces her to do. In her new Corinthian home, Medea had no political power. As a woman and a foreign woman at that, she lived at the will of her husband, who was easily able to discard her and their children when the opportunity for self-promotion appeared.
 
-<div>
-</div>
-
 We should not let Medea’s murderous capacity, or her divine escape, blind us to the way she was marginalized in her lived reality. And Medea’s violent reaction pushes back on these systems of oppression, transcending normative gender, and even human, boundaries. Her violent slaughter of the children with a sword evokes the image of a male soldier, and the target of her violence is Jason’s role as a father and king. She kills his heirs and eliminates any hope of future ones by sending her own children with a poison robe to Glauce, killing Jason’s new bride. Even though these are unforgivable acts, Medea’s pain keeps audience sympathy for her alive throughout the play. Despite loving her children, she cares to punish Jason more. Medea is more than tragic victim or deadly villain – she is a human pushed to her absolute breaking point until she breaks free in divine flight.
 
 ### Learn More
