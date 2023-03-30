@@ -1,0 +1,15 @@
+/* Button styling */
+
+button {
+    background-color: $bluegreen;
+    font: inherit;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 8px;
+  }
+  
+  button:hover {
+    background-color: $teal;
+  }
+
+  /* Calendar stuff */
