@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Press
+permalink: /press
 ---
 
 ## [Media/Medea: Staging a Modern Greek Tragedy](https://www.brynmawr.edu/news/mediamedea-staging-modern-greek-tragedy)

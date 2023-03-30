@@ -1,5 +1,24 @@
 ---
-layout: post
+layout: default
 ---
 
-{{ content }}
+{% if site.data.menu %}
+  {% include masthead.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
+
+<article class="page h-entry" id="main" role="article" aria-label="Content">
+
+  {% if page.title != "" %}
+    <h1 class="post-title">
+      {{ page.title }}
+    </h1>
+  {% endif %}
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+
+</article>
