@@ -12,6 +12,8 @@ title: About
 
 ## Sponsors
 - American Council of Learned Societies (ACLS): Sustaining Public Engagement Grant
-- Bryn Mawr College Library & Information Technology Services (LITS): Digital Bryn Mawr Project Grant
+- President's Office, Bryn Mawr College
+- Library & Information Technology Services (LITS), Bryn Mawr College: Digital Bryn Mawr Project Grant
+- Society of Classical Studies (SCS): Ancient Worlds, Modern Communities Grant
 
 ## Personnel

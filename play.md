@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: page
 title: Media/Medea
 ---
 
-*Media/Medea* is a play by Pulitzer-winning playwright James Ijames which reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict. 
+*Media/Medea* is a play by Pulitzer-winning playwright James Ijames which reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict.
 
-An open-access version of Ijames' script will be made available here following the world premier of the play at Bryn Mawr College and the Community College of Philadelphia in April 2023. 
+World premeire performances of *Media/Medea* will take place April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater. Ticket reservations will be available online to the general public beginning March 31.
+
+<button onclick="window.location.href='https://www.brynmawr.edu/inside/academic-information/departments-programs/theater/productions';">Bryn Mawr Theater website</button>
+
+Following the world premiere, an open-access version of Ijames' script will be made available on this website. 
 
 ---
 
@@ -28,7 +32,7 @@ An open-access version of Ijames' script will be made available here following t
 
 **Chorus**:
 - Elizabeth Brown
-- Minh Dung Doan
+- Minh Doan
 - Lulu Florea
 - Isiah Jessie
 - Bina Lee
@@ -43,9 +47,9 @@ An open-access version of Ijames' script will be made available here following t
 
 **Producer**: Catherine Conybeare
 
-**Director**: Raelle Myrick Hodges
+**Producer & Production Coordinator**, Community College of Philadlephia: Quinn Eli
 
-**Production Coordinator**, Community College of Philadlephia: Quinn Eli
+**Director**: Raelle Myrick Hodges
 
 **Scenic & Costume Designer**: Maiko Matsushima
 
@@ -55,7 +59,7 @@ An open-access version of Ijames' script will be made available here following t
 
 **Properties Designer & Coordinator**: Saria Rosenhaj
 
-**Technical Director**, Bryn Mawr & Haverfrod Colleges: Justin McDaniel
+**Technical Director**, Bryn Mawr & Haverford Colleges: Justin McDaniel
 
 **Technical Director & Production Manager**, Community College of Philadelphia: Newton Buchanan
 
