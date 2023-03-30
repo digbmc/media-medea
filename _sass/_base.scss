@@ -104,9 +104,10 @@ p > cite {
 }
 
 hr {
-  border: 0;
-  height: 0;
-  @include divider;
+  border: 2;
+  border-color: black;
+  height: 2;
+  //@include divider;
   margin: 3em 0;
 }
 
