@@ -7,10 +7,7 @@ title: Media/Medea
 
 World premeire performances of *Media/Medea* will take place April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater. Ticket reservations will be available online to the general public beginning March 31.
 
-<form>
-	<button type="submit" formaction="https://www.brynmawr.edu/inside/academic-information/departments-programs/theater/productions">Bryn Mawr Theater Productions</button>
-</form>
-
+<button onclick="window.location.href='https://www.brynmawr.edu/inside/academic-information/departments-programs/theater/productions';">Bryn Mawr Theater website</button>
 
 Following the world premiere, an open-access version of Ijames' script will be made available on this website. 
 
