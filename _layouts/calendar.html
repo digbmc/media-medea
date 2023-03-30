@@ -1,6 +1,14 @@
 ---
-layout: page
-permalink: /calendar/
+layout: default
 ---
+{% if site.data.menu %}
+  {% include masthead.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
+<article class="page" id="main" role="article" aria-label="Content">
+
+<h1 class="cal">Calendar of Events</h1>
 
 <div class="calendar-content">{% include fullcalendar.html %}</div>
+</article>
