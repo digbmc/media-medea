@@ -5,7 +5,9 @@ title: Media/Medea
 
 *Media/Medea* is a play by Pulitzer-winning playwright James Ijames which reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict.
 
-World premeire performances of *Media/Medea* will take place April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater. Ticket reservations will be available online to the general public beginning March 31. 
+World premeire performances of *Media/Medea* will take place April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater. Ticket reservations will be available online to the general public beginning March 31.
+
+<button onclick="window.location.href='https://brynmawrarts.ticketleap.com/medea/';">Reserve tickets for Bryn Mawr performances</button>
 
 Following the world premiere, an open-access version of Ijames' script will be made available on this website. 
 
