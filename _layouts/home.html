@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 {% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
@@ -22,17 +23,14 @@ layout: default
     {% endif %}
   </header>
 {% endif %}
-
-<h6>
-  <strong>Greek Drama / Black Lives: Intergenerational Collaboration in Philadelphia</strong> is an ACLS sponsored project designed to restore and fortify
-relationships between Bryn Mawr College, the Community College of Philadelphia, and the E. M. Stanton School (K-8) in South Philadelphia.  The project encompasses a year of vibrant outreach programming culminating in a collaborative reimagination Euripides' Medea, which centers questions of race and familial conflict, and the characters of Medea's children.  This is “Greek theater through Black eyes”. 
-  <br>
-  Learn more about <a href="/play">the play <em>Media/Medea</em> by James Ijames here</a> or reserve tickets:
-  <br>
+<div class="callout">
+<p><strong>Greek Drama / Black Lives: Intergenerational Collaboration in Philadelphia</strong> is an ACLS sponsored project designed to restore and fortify relationships between Bryn Mawr College, the Community College of Philadelphia, and the E. M. Stanton School (K-8) in South Philadelphia.  The project encompasses a year of vibrant outreach programming culminating in a collaborative reimagination Euripides' Medea, which centers questions of race and familial conflict, and the characters of Medea's children.  This is “Greek theater through Black eyes.” Learn more about <a href="/play">the play <em>Media/Medea</em> by James Ijames here.</a></p>
+<p>
   <a href='https://brynmawrarts.ticketleap.com/medea/' target="_blank"><button>Bryn Mawr Ticket Reservations</button></a>
   <a href='https://community-college-of-philadelphia.ticketleap.com/media-medea/' target="_blank"><button>CCP Ticket Reservations</button></a>
-</h6>
+</p>
 
+</div>
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
