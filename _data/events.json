@@ -43,19 +43,19 @@
     "title": "Medea Performance",
     "description": "Hepburn Teaching Theater, Bryn Mawr College",
     "start": "2023-04-14T19:30:00",
-    "end": "2023-04-14T21:30:00"
+    "end": "2023-04-14T21:00:00"
     },
     {
     "title": "Medea Performance",
     "description": "Hepburn Teaching Theater, Bryn Mawr College",
     "start": "2023-04-15T19:30:00",
-    "end": "2023-04-15T21:30:00"
+    "end": "2023-04-15T21:00:00"
     },
     {
     "title": "Medea Performance",
     "description": "Hepburn Teaching Theater, Bryn Mawr College",
     "start": "2023-04-16T19:30:00",
-    "end": "2023-04-16T21:30:00"
+    "end": "2023-04-16T21:00:00"
     },
     {
     "title":
@@ -66,20 +66,20 @@
     },
     {
     "title": "Medea Performance",
-    "description": "Community College of Philadelphia",
-    "start": "2023-04-20T00:00:00",
-    "end": "2023-04-20T23:59:59"
+    "description": "Bonnell Building, BG-21, Community College of Philadelphia",
+    "start": "2023-04-20T19:00:00",
+    "end": "2023-04-20T20:30:00"
     },
     {
     "title": "Medea Performance",
-    "description": "Community College of Philadelphia",
-    "start": "2023-04-21T00:00:00",
-    "end": "2023-04-21T23:59:59"
+    "description": "Bonnell Building, BG-21, Community College of Philadelphia",
+    "start": "2023-04-21T19:00:00",
+    "end": "2023-04-21T20:30:00"
     },
     {
     "title": "Medea Performance",
-    "description": "Community College of Philadelphia",
-    "start": "2023-04-22T00:00:00",
-    "end": "2023-04-22T23:59:59"
+    "description": "Bonnell Building, BG-21, Community College of Philadelphia",
+    "start": "2023-04-22T19:00:00",
+    "end": "2023-04-22T20:30:00"
     }
 ]
