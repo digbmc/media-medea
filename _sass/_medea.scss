@@ -76,19 +76,33 @@ button {
 
   /* Calendar stuff */
 
-.event {
-    text-align: left;
-}
+// .event {
+//     text-align: left;
+// }
 
 h3.event {
-    font-size: 1em;
-    font-weight: bold;
+    font-size: .875em;
+    // font-weight: bold;
     margin-bottom: 0;
 }
 
 .event p {
     margin: 0;
 }
+
+.post-list li.event {
+    max-width: 42em;
+    margin: 1em auto;
+    background-color: $lime;
+    border-radius: 15px;
+   
+    @media (min-width: $on-tablet) {
+      border-radius: 25px;
+      padding: .25em .5em;
+    }
+  }
+
+
 
 //   h1.cal {
 //     font-size: 1.5em;
@@ -100,7 +114,10 @@ h3.event {
 //     }
 //   }
 
-//   .calendar-content {
-//    background-color: $purpley;
+  .calendar-content {
+   display: none;
+   @media (min-width: $on-tablet) {
+    display:block;
+   }
 
-//   }
+  }

@@ -2,15 +2,18 @@
 
 {% if events %}
 <div>
-    <div>
+    <h2 id="event-list">All Events</h2>
+    <ul class="post-list">
     {% for item in site.data.events %}
-    <div class="event">
-        <h3 class="event">{{ item.title }}</h3>
-        <p>{{ item.description }}</p>
-        <p>{{ item.start | date: "%A, %B %d, %Y, %I:%M %p" }}</p>
-    </div>
+    <li class="event">
+        <div class="post-link__heading">
+            <h3 class="post-link__title event">{{ item.title }}</h3>
+            <span class="post-link__excerpt">{{ item.description }}</span>
+            <span class="post-date">{{ item.start | date: "%A, %B %d, %Y, %I:%M %p" }}-{{ item.end | date: "%I:%M %p"}}</span>
+        </div>
+    </li>
 
     {% endfor %}
-</div>
+    </ul>
 </div>
 {% endif %}
