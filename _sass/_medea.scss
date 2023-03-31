@@ -119,5 +119,22 @@ h3.event {
    @media (min-width: $on-tablet) {
     display:block;
    }
-
+  }
+  #calendar {
+    max-width: 900px;
+    margin: 40px auto;
+  }
+  .fc-daygrid-day {
+    height: 80px;
+    width: 120px;
+  }
+  .fc-event {
+    height: 100%;
+    width: 100%;
+    padding: 2px;
+    font-size: 12px;
+    overflow: overlay;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: break-word;
   }
