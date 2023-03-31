@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: calendar
 title: Calendar
 permalink: /calendar/
 ---
