@@ -8,8 +8,8 @@ permalink: /play/
 
 World premeire performances of *Media/Medea* will take place April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater. Ticket reservations are now available to the general public.
 
-<a href='https://brynmawrarts.ticketleap.com/medea/' target="_blank"><button>Ticketing for Bryn Mawr Performances</button></a>
-<a href='https://community-college-of-philadelphia.ticketleap.com/media-medea/' target="_blank"><button>Ticketing for CCP Performances</button></a>
+<a href='https://brynmawrarts.ticketleap.com/medea/' target="_blank"><button>Bryn Mawr Ticket Reservations</button></a>
+<a href='https://community-college-of-philadelphia.ticketleap.com/media-medea/' target="_blank"><button>CCP Ticket Reservations</button></a>
 
 Following the world premiere, an open-access version of Ijames' script will be made available on this website. 
 
