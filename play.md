@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Media/Medea
-permalink: /play/
+permalink: /play
 ---
 
 *Media/Medea* is a play by Pulitzer-winning playwright James Ijames which reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict.

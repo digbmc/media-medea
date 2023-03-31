@@ -3,7 +3,8 @@
 button {
     background-color: $lime;
     font: inherit;
-    border: none;
+    border-width: 1px;
+    border-color: black;
     padding: 12px 28px;
     border-radius: 8px;
   }
@@ -107,12 +108,12 @@ h3.event {
    }
   }
   #calendar {
-    max-width: 900px;
+    max-width: 60rem;
     margin: 40px auto;
   }
   .fc-daygrid-day {
     height: 80px;
-    width: 100px;
+    width: 7rem;
   }
   .fc-event {
     height: 100%;
