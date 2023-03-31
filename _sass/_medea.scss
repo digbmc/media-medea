@@ -74,11 +74,7 @@ button {
   }
 
 
-  /* Calendar stuff */
-
-// .event {
-//     text-align: left;
-// }
+  /* Calendar - event list */
 
 h3.event {
     font-size: .875em;
@@ -102,17 +98,7 @@ h3.event {
     }
   }
 
-
-
-//   h1.cal {
-//     font-size: 1.5em;
-//     max-width: 48rem;
-//     padding: 1em 1em;
-//     text-align: center;
-//     @media (min-width: $on-tablet) {
-//       font-size: 1.5em;
-//     }
-//   }
+  /* Calendar grid */
 
   .calendar-content {
    display: none;
@@ -126,15 +112,15 @@ h3.event {
   }
   .fc-daygrid-day {
     height: 80px;
-    width: 120px;
+    width: 100px;
   }
   .fc-event {
     height: 100%;
     width: 100%;
     padding: 2px;
-    font-size: 12px;
+    font-size: 14px;
     overflow: overlay;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    // white-space: nowrap;
     word-wrap: break-word;
   }
