@@ -1,0 +1,16 @@
+{% assign events = site.data.events %}
+
+{% if events %}
+<div>
+    <div>
+    {% for item in site.data.events %}
+    <div class="event">
+        <h3 class="event">{{ item.title }}</h3>
+        <p>{{ item.description }}</p>
+        <p>{{ item.start | date: "%A, %B %d, %Y, %I:%M %p" }}</p>
+    </div>
+
+    {% endfor %}
+</div>
+</div>
+{% endif %}

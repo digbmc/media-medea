@@ -76,6 +76,20 @@ button {
 
   /* Calendar stuff */
 
+.event {
+    text-align: left;
+}
+
+h3.event {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.event p {
+    margin: 0;
+}
+
 //   h1.cal {
 //     font-size: 1.5em;
 //     max-width: 48rem;
