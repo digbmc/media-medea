@@ -13,6 +13,11 @@ World premeire performances of *Media/Medea* will take place April 13 – 16 at 
 
 Following the world premiere, an open-access version of Ijames' script will be made available on this website. 
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/CCP_Medea_Photography-178.jpg" alt="Image of six cast members in rehearsal, one standing in center mid speech, the rest seated or standing in background."/>
+  <figcaption>Cast members in rehearsal at the Community College of Phiadelphia. Photo by Aaron Windhorst for Bryn Mawr College.</figcaption>
+</figure>
+
 ---
 
 ## Original Cast & Production Team
