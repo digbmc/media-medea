@@ -4,9 +4,9 @@ title: Media/Medea
 permalink: /play
 ---
 
-*Media/Medea* is a play by Pulitzer-winning playwright James Ijames which reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict.
+*Media/Medea* is a play by Pulitzer-winning playwright James Ijames that reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict.
 
-World premeire performances of *Media/Medea* will take place April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater. Ticket reservations are now available to the general public.
+World premiere performances of *Media/Medea* will take place April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater. Ticket reservations are now available to the general public.
 
 <a href='https://brynmawrarts.ticketleap.com/medea/' target="_blank"><button>Bryn Mawr Ticket Reservations</button></a>
 <a href='https://community-college-of-philadelphia.ticketleap.com/media-medea/' target="_blank"><button> CCP Ticket Reservations </button></a>
@@ -31,7 +31,7 @@ Following the world premiere, an open-access version of Ijames' script will be m
 
 **Shel**: Génesis Woods
 
-**Circe**: Maria Del Pilar Rodiguez & Bethany Wisdom
+**Circe**: Maria Del Pilar Rodriguez & Bethany Wisdom
 
 **Glauce**: Regan Riehl
 
@@ -54,7 +54,7 @@ Following the world premiere, an open-access version of Ijames' script will be m
 
 **Producer**: Catherine Conybeare
 
-**Producer & Production Coordinator**, Community College of Philadlephia: Quinn Eli
+**Producer & Production Coordinator**: Quinn Eli
 
 **Director**: Raelle Myrick Hodges
 
@@ -66,13 +66,13 @@ Following the world premiere, an open-access version of Ijames' script will be m
 
 **Properties Designer & Coordinator**: Saria Rosenhaj
 
-**Technical Director**, Bryn Mawr & Haverford Colleges: Justin McDaniel
+**Technical Director**: Justin McDaniel (Bryn Mawr & Haverford Colleges)
 
-**Technical Director & Production Manager**, Community College of Philadelphia: Newton Buchanan
+**Technical Director & Production Manager**: Newton Buchanan (Community College of Philadelphia)
 
-**Instructor in Technical Theater**, Community College of Philadelphia: Jonathan Pappas
+**Instructor in Technical Theater**: Jonathan Pappas (Community College of Philadelphia)
 
-**Production Manager**, Bryn Mawr & Haverford Colleges: Amy Radbill
+**Production Manager**: Amy Radbill (Bryn Mawr & Haverford Colleges)
 
 **Stage Manager**: Anne Meyer
 
@@ -85,3 +85,7 @@ Following the world premiere, an open-access version of Ijames' script will be m
 **Sound Engineer**: Ophelia Evans
 
 **Assistant to the Director**: Wura Oni
+
+**Run Crew**: Leo Anderman & Carolyn Schwartz
+
+**Production Assistant**: Tova Just
