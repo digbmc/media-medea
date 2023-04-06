@@ -3,7 +3,7 @@ layout: post
 title: "The First Day of Tech in the Life of a First-Time Assistant Stage Manager"
 author: "Cricket Bradford & Anne Meyer"
 categories: 
-publish: False
+publish: True
 ---
 
 *Cricket Bradford, Assistant Stage Manager on the world premiere set of* Media/Medea, *provides a first-hand look into the work of production staff during tech rehearsals.*
