@@ -11,6 +11,7 @@
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
     crossorigin="anonymous"
   />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
   <script
     src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -44,8 +45,7 @@
     <li data-target="#carouselExampleControls" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-
-<!--     <div class="carousel-item active">
+    <!--     <div class="carousel-item active">
         <img
           class="d-block w-100"
           src="{{ site.baseurl }}/assets/images/gallery/image1.jpg"
@@ -58,8 +58,8 @@
       </div> -->
 
     {% for item in page.gallery %}
-    
-    <div class= "{{ item.class | default: carousel-item }}">
+
+    <div class="{{ item.class | default: carousel-item }}">
       <img
         class="d-block w-100"
         src="{{ site.baseurl }}/assets/images/gallery/{{ item.imgurl }}"
@@ -68,11 +68,9 @@
       <div class="carousel-caption d-none d-md-block">
         <h5>{{ item.caption }}</h5>
       </div>
-    
     </div>
 
     {% endfor %}
-
 
     <a
       class="carousel-control-prev"
