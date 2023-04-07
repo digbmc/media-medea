@@ -27,6 +27,7 @@
     crossorigin="anonymous"
   ></script>
 </head>
+
 <div
   id="carouselExampleControls"
   class="carousel slide"
@@ -43,106 +44,21 @@
     <li data-target="#carouselExampleControls" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    {% for item in page.gallery %}
+
+    <div class="{{ item.class | default: carousel-item }}">
       <img
         class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image1.jpg"
-        alt="Medea/Media Rehearsal in Goodhart Img"
+        src="{{ site.baseurl }}/assets/images/gallery/{{ item.imgurl }}"
+        alt="{{ item.alt }}"
       />
       <div class="carousel-caption d-none d-md-block">
-        <h5>Medea/Media Rehearsal in Goodhart</h5>
+        <h5>{{ item.caption }}</h5>
       </div>
     </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image2.jpg"
-        alt="Medea Project Acting Class with Catherine Slusar Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea Project Acting Class with Catherine Slusar</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image3.jpg"
-        alt="Medea Project Acting Class with Catherine Slusar Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea Project Acting Class with Catherine Slusar</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image4.jpg"
-        alt="Medea/Media at CCP Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea/Media at CCP</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image5.jpg"
-        alt="Medea/Media at CCP Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea/Media at CCP</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image6.jpg"
-        alt="Medea Q&A with James Ijames Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea Q&A with James Ijames</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image7.jpg"
-        alt="Medea Q&A with James Ijames Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea Q&A with James Ijames</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image8.jpg"
-        alt="Medea Q&A with James Ijames Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea Q&A with James Ijames</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image9.jpg"
-        alt="Medea/Media @ E.M. Stanton Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea/Media @ E.M. Stanton</h5>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="{{ site.baseurl }}/assets/images/gallery/image10.jpg"
-        alt="Medea/Media @ E.M. Stanton Img"
-      />
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Medea/Media @ E.M. Stanton</h5>
-      </div>
-    </div>
+
+    {% endfor %}
+
     <a
       class="carousel-control-prev"
       href="#carouselExampleControls"
