@@ -32,3 +32,7 @@ We should not let Medea’s murderous capacity, or her divine escape, blind us t
 - For a feminist interpretation of *Medea*, read ["Murderer and Trailblazer: *Medea* as a Feminist Text"](https://confluence.gallatin.nyu.edu/context/interdisciplinary-seminar/murderer-and-trailblazer-medea-as-a-feminist-text) by Kyle Kim.
 - For further reading on *Medea* and themes of motherhood, check out Kathleen Roberts' chapter, “Sōtēria, the Mother as Other: Medea in Ancient Greece (and Beyond)," in *Alterity and Narrative: Stories and the Negotiation of Western Identities*, State University of New York Press, 2007.
 - For more information about the volute krater shown above, refer to [this analysis](https://artmuseum.princeton.edu/learn/explore/resources/viewers/616845772f361c0018efa1fc) provided by the Princeton University Art Museum.
+
+---
+
+**Audrey Wallace** is a graduate student in the Greek, Latin, and Classical Studies program at Bryn Mawr, where she received her M.A. in 2017, and where she will defend her dissertation later this spring (2023).
