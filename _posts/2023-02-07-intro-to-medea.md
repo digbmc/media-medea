@@ -27,3 +27,7 @@ The *Medea* picks up with their domestic life in Corinth many years later as Jas
 -	For more on Euripidean innovation, see Francis Dunn’s *Tragedy’s End: Closure and Innovation in Euripidean Drama*.
 -	For more on the production of the Medea, both ancient and modern, see Michael Ewans’ *Euripides’* Medea: *Translation and Theatrical Commentary*.
 -	Check out the [Lib Guide](https://libguides.ccp.edu/c.php?g=1275271&p=9356203 "link to lib guide") created by librarians at the Community College of Philadelphia.
+
+---
+
+**Audrey Wallace** is a graduate student in the Greek, Latin, and Classical Studies program at Bryn Mawr, where she received her M.A. in 2017, and where she will defend her dissertation later this spring (2023).
