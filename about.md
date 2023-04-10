@@ -16,5 +16,3 @@ permalink: /about
 - President's Office, Bryn Mawr College
 - Library & Information Technology Services (LITS), Bryn Mawr College: Digital Bryn Mawr Project Grant
 - Society of Classical Studies (SCS): Ancient Worlds, Modern Communities Grant
-
-## Personnel
