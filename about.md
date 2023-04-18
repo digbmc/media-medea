@@ -34,6 +34,34 @@ gallery:
 
 **Greek Drama/Black Lives: Intergenerational Collaboration in Philadelphia** is an ACLS sponsored project designed to restore and fortify relationships between Bryn Mawr College, the Community College of Philadelphia, and the E. M. Stanton School (K-8) in South Philadelphia. The project encompasses a year of vibrant outreach programming culminating in a collaborative [reimagination Euripides’ Medea](play), which centers questions of race and familial conflict, and the characters of Medea’s children. This is “Greek theater through Black eyes”.
 
+gallery:
+
+    - imgurl: image1.jpg
+      alt: 'Medea/Media Rehearsal in Goodhart'
+      caption: 'Medea/Media Rehearsal in Goodhart'
+      class: carousel-item active
+
+    - imgurl: image2.jpg
+      alt: 'alternative text'
+      caption: Medea Project Acting Class with Catherine Slusar
+      class: carousel-item
+
+    - imgurl: image4.jpg
+      alt: 'alternative text'
+      caption: 'Medea/Media at CCP'
+      class: carousel-item
+
+    - imgurl: image6.jpg
+      alt: 'medea'
+      caption: Medea Q&A with James Ijames
+      class: carousel-item
+
+---
+
+{% include gallery-liquid.html %}
+
+**Greek Drama/Black Lives: Intergenerational Collaboration in Philadelphia** is an ACLS sponsored project designed to restore and fortify relationships between Bryn Mawr College, the Community College of Philadelphia, and the E. M. Stanton School (K-8) in South Philadelphia. The project encompasses a year of vibrant outreach programming culminating in a collaborative [reimagination Euripides’ Medea](play), which centers questions of race and familial conflict, and the characters of Medea’s children. This is “Greek theater through Black eyes”.
+
 ## Partner Institutions
 
 - Bryn Mawr College
