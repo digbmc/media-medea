@@ -3,6 +3,26 @@
     Display description for events
     Show the list of events as they follow each other -->
 
+  <style>
+    #calendar {
+      max-width: 900px;
+      margin: 40px auto;
+    }
+    .fc-daygrid-day {
+      height: 80px;
+      width: 120px;
+    }
+    .fc-event {
+      height: 100%;
+      width: 100%;
+      padding: 2px;
+      font-size: 12px;
+      overflow: overlay;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      word-wrap: break-word;
+    }
+  </style>
 
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar/index.global.min.js"></script>
   <script src="https://unpkg.com/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
@@ -50,11 +70,11 @@
 
         events: [
           {
-              title:
+            title:
               "Sibyl Kempson in Conversation on Writing Mythic Adaptations for the Stage",
-              description: "Community College of Philadelphia",
-              start: "2022-11-01T16:30:00",
-              end: "2022-11-01T17:00:00",
+            description: "Community College of Philadelphia",
+            start: "2022-11-01T16:30:00",
+            end: "2022-11-01T17:00:00",
           },
           {
             title:
@@ -123,19 +143,22 @@
           },
           {
             title: "Media/Medea Performance",
-            description: "Bonnell Building, BG-21, Community College of Philadelphia",
+            description:
+              "Bonnell Building, BG-21, Community College of Philadelphia",
             start: "2023-04-20T19:00:00",
             end: "2023-04-20T20:30:00",
           },
           {
             title: "Media/Medea Performance",
-            description: "Bonnell Building, BG-21, Community College of Philadelphia",
+            description:
+              "Bonnell Building, BG-21, Community College of Philadelphia",
             start: "2023-04-21T19:00:00",
             end: "2023-04-21T20:30:00",
           },
           {
             title: "Media/Medea Performance",
-            description: "Bonnell Building, BG-21, Community College of Philadelphia",
+            description:
+              "Bonnell Building, BG-21, Community College of Philadelphia",
             start: "2023-04-22T16:00:00",
             end: "2023-04-22T17:30:00",
           },
