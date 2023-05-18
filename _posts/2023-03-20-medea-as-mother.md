@@ -35,4 +35,4 @@ We should not let Medea’s murderous capacity, or her divine escape, blind us t
 
 ---
 
-**Audrey Wallace** is a graduate student in the Greek, Latin, and Classical Studies program at Bryn Mawr, where she received her M.A. in 2017, and where she will defend her dissertation later this spring (2023).
+**Audrey Wallace** recently received her Ph.D. from Bryn Mawr College in Greek, Latin, and Classical Studies in 2023, where she also received her M.A. in 2017.
