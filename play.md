@@ -31,10 +31,7 @@ World premiere performances of *Media/Medea* were held April 13 – 16 at the Br
 
 An open-access version of Ijames' script will soon be made available on this website. 
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/images/CCP_Medea_Photography-178.jpg" alt="Image of six cast members in rehearsal, one standing in center mid speech, the rest seated or standing in background."/>
-  <figcaption>Cast members in rehearsal at the Community College of Phiadelphia. Photo by Aaron Windhorst for Bryn Mawr College.</figcaption>
-</figure>
+{% include gallery.html %}
 
 ---
 
@@ -107,5 +104,3 @@ An open-access version of Ijames' script will soon be made available on this web
 **Run Crew**: Leo Anderman & Carolyn Schwartz
 
 **Production Assistant**: Tova Just
-
-{% include gallery.html %}
