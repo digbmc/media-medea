@@ -32,19 +32,11 @@
   id="carouselExampleControls"
   class="carousel slide"
   data-ride="carousel"
-  data-interval="4000"
+  data-interval="0"
 >
-  <ol class="carousel-indicators">
-    <li
-      data-target="#carouselExampleControls"
-      data-slide-to="0"
-      class="active"
-    ></li>
-    <li data-target="#carouselExampleControls" data-slide-to="1"></li>
-    <li data-target="#carouselExampleControls" data-slide-to="2"></li>
-  </ol>
+
   <div class="carousel-inner">
-    {% for item in page.gallery %}
+    {% for item in site.data.gallery %}
 
     <div class="{{ item.class | default: carousel-item }}">
       <img
@@ -78,4 +70,18 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
+  <ol class="carousel-indicators">
+    <!--adds an indicator for every slide-->
+    {% for item in site.data.gallery %}
+    {% if forloop.first %}
+    <li
+      data-target="#carouselExampleControls"
+      data-slide-to="0"
+      class="active"
+    ></li>
+    {% else %}
+    <li data-target="#carouselExampleControls" data-slide-to="{{ forloop.index0 }}"></li>
+    {% endif %}
+    {% endfor %}
+  </ol>
 </div>
