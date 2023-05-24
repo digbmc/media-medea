@@ -2,6 +2,27 @@
 layout: post
 title: Media/Medea
 permalink: /play
+
+gallery:
+  - imgurl: image1.jpg
+    alt: "Medea/Media Rehearsal in Goodhart"
+    caption: "Medea/Media Rehearsal in Goodhart"
+    class: carousel-item active
+
+  - imgurl: image2.jpg
+    alt: "alternative text"
+    caption: Medea Project Acting Class with Catherine Slusar
+    class: carousel-item
+
+  - imgurl: image4.jpg
+    alt: "alternative text"
+    caption: "Medea/Media at CCP"
+    class: carousel-item
+
+  - imgurl: image6.jpg
+    alt: "medea"
+    caption: Medea Q&A with James Ijames
+    class: carousel-item
 ---
 
 *Media/Medea* is a play by Pulitzer-winning playwright James Ijames that reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict.
@@ -86,3 +107,5 @@ An open-access version of Ijames' script will soon be made available on this web
 **Run Crew**: Leo Anderman & Carolyn Schwartz
 
 **Production Assistant**: Tova Just
+
+{% include gallery.html %}
