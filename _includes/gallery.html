@@ -36,7 +36,7 @@
 >
 
   <div class="carousel-inner">
-    {% for item in site.data.gallery %}
+    {% for item in page.gallery %}
 
     <div class="{{ item.class | default: carousel-item }}">
       <img
@@ -72,7 +72,7 @@
   </div>
   <ol class="carousel-indicators">
     <!--adds an indicator for every slide-->
-    {% for item in site.data.gallery %}
+    {% for item in page.gallery %}
     {% if forloop.first %}
     <li
       data-target="#carouselExampleControls"
