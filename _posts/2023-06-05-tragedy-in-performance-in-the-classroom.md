@@ -12,7 +12,7 @@ I’ve worked with Greek tragedy before, as both a graduate and an undergraduate
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/Catherine_Slusar_Medea_Class.jpg" alt="Image of Professor Catherine Slusar leading a group of students in an acting exercise. She is in the center of the image with one foot held off of the ground and arms in motion. Three students are visible in the frame, one to each side of Professor Slusar and one in the foreground."/>
-  <figcaption>Professor Catherine Slusar (center) leads students, including Mallory Fitzpatrick (lower left) in acting exercises. Photo by Aaron Windhorst for Bryn Mawr College.</figcaption>
+  <figcaption>Professor Catherine Slusar (center) leads students, including Mallory Fitzpatrick (lower left), in acting exercises. Photo by Aaron Windhorst for Bryn Mawr College.</figcaption>
 </figure>
 
 While Professor Sigelman guided us through the cultural context, literary traditions, and complex (and at times confusing) text of these stories, Professor Slusar introduced us to acting theory—Stanislavsky and Chekov, psychological gestures and embodied lines. Exercises and techniques like these forced me to rethink my approach to these familiar texts. I’ve always been fascinated by Electra, one of the only characters to appear in the work of all three surviving Greek tragedians. But taking on her role in a scene from Aeschylus’ *Libation Bearers* pushed me to reconsider her relationship with her brother Orestes all over again. How *would* it feel to see your brother for the first time in over a decade, while mourning your father and harboring a murderous rage towards your mother? 
