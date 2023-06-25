@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tragedy in Perforamance in the Classroom"
+title: "Tragedy in Performance in the Classroom"
 author: "Mallory Fitzpatrick"
 categories: 
 publish: True
