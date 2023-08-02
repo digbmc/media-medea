@@ -13,6 +13,9 @@ Medea, in the legendary Greek tragic tale, is best known for her worst deed: kil
 
 [Article Text Only]({{ site.baseurl }}/assets/Cartagena_InquirerArticle_April21_Text.pdf)
 
+## [Community College of Philadelphia, Bryn Mawr College Students Present Premiere of James Ijames’ Media](https://ccp.edu/about-us/news/press-release/community-college-philadelphia-bryn-mawr-college-students-present-premiere-james-ijames%E2%80%99%C2%A0media)
+PHILADELPHIA – As James Ijames’ Pulitzer Prize-winning Fat Ham makes its Broadway debut, a group of students from Community College of Philadelphia (CCP) and Bryn Mawr College are ready to present the world premiere of the local playwright’s latest work, a modern retelling of Euripides’ *Medea*. ...
+
 ## [Things Get Technical in Final Weeks of Rehearsal for 'Media/Medea'](https://www.brynmawr.edu/news/things-get-technical-final-weeks-rehearsal-mediamedea)
 In less than a month, *Media/Medea*, an updated adaptation of Euripides’ Greek tragedy *Medea*, re-envisioned for the 21st-century from a Black perspective, will be performed on stages at Bryn Mawr and Community College of Philadelphia (CCP). ...
 
