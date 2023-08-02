@@ -7,11 +7,11 @@ permalink: /press
 ## ["Medea" Gets a Makeover: How an ambitious, intergenerational collaboration re-envisioned a classic Greek tragedy for our times](https://www.brynmawr.edu/bulletin/medea-gets-makeover)
 In mid-April, audiences at Goodhart Theater were treated to a staging of *Media/Medea*, an adaptation of Euripides’ Greek tragedy *Medea*, re-envisioned for the 21st century from a Black perspective. ...
 
-## [A 'Medea' Inspired by 'The Real Housewives'](../assets/Cartagena_InquirerArticle_April21.pdf)
+## [A 'Medea' Inspired by 'The Real Housewives']({{ site.baseurl }}/assets/Cartagena_InquirerArticle_April21.pdf)
 The James Ijames play is being done in partnership with Community College of Philadephia, Bryn Mawr College, and Haverford College. 
 Medea, in the legendary Greek tragic tale, is best known for her worst deed: killing her children. ...
 
-[Article Text Only](../assets/Cartagena_InquirerArticle_April21_Text.pdf)
+[Article Text Only]({{ site.baseurl }}/assets/Cartagena_InquirerArticle_April21_Text.pdf)
 
 ## [Things Get Technical in Final Weeks of Rehearsal for 'Media/Medea'](https://www.brynmawr.edu/news/things-get-technical-final-weeks-rehearsal-mediamedea)
 In less than a month, *Media/Medea*, an updated adaptation of Euripides’ Greek tragedy *Medea*, re-envisioned for the 21st-century from a Black perspective, will be performed on stages at Bryn Mawr and Community College of Philadelphia (CCP). ...
