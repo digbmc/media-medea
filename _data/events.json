@@ -1,28 +1,24 @@
 [
     {
-    "title":
-        "Sibyl Kempson in Conversation on Writing Mythic Adaptations for the Stage",
+    "title": "Sibyl Kempson in Conversation on Writing Mythic Adaptations for the Stage",
     "description": "Community College of Philadelphia",
     "start": "2022-11-01T16:30:00",
     "end": "2022-11-01T17:00:00"
     },
     {
-    "title":
-        "James Ijames, “On Adapting Medea: A Conversation with Ava Shirazi”",
+    "title": "James Ijames, “On Adapting Medea: A Conversation with Ava Shirazi”",
     "description": "Carpenter Library B21, Bryn Mawr College",
     "start": "2022-12-22T16:30:00",
     "end": "2022-12-22T17:30:00"
     },
     {
-    "title":
-        "Asya Sigelman (Bryn Mawr College) & Kathleen Murphey (Community College of Philadelphia) in Conversation on Myth, Medea, and Greek Tragedy",
+    "title": "Asya Sigelman (Bryn Mawr College) & Kathleen Murphey (Community College of Philadelphia) in Conversation on Myth, Medea, and Greek Tragedy",
     "description": "Winnet Student Life Building Room S-2-3, Community College of Philadelphia",
     "start": "2023-01-27T13:00:00",
     "end": "2023-01-27T14:00:00"
     },
     {
-    "title":
-        "Marcus Folch (Columbia University), “Prison Before Race: Classical Athens and the History of Incarceration”",
+    "title": "Marcus Folch (Columbia University), “Prison Before Race: Classical Athens and the History of Incarceration”",
     "description": "Carpenter Library B21",
     "start": "2023-02-03T16:30:00",
     "end": "2023-02-03T17:30:00"
@@ -34,8 +30,7 @@
     "end": "2023-02-25T21:00:00"
     },
     {
-    "title":
-        "Helen Morales (University of California, Santa Barabara), “Sacrifice, Solidarity, and Survival in Wayne Shorter and Esperanza Spalding’s Opera …(Iphigenia), and the Art of Harmonia Rosales”",
+    "title": "Helen Morales (University of California, Santa Barabara), “Sacrifice, Solidarity, and Survival in Wayne Shorter and Esperanza Spalding’s Opera …(Iphigenia), and the Art of Harmonia Rosales”",
     "description": "Carpenter Library B21, Bryn Mawr College",
     "start": "2023-03-17T16:30:00",
     "end": "2023-03-17T17:30:00"
@@ -88,5 +83,11 @@
     "description": "Bonnell Building, BG-21, Community College of Philadelphia",
     "start": "2023-04-22T16:00:00",
     "end": "2023-04-22T17:30:00"
+    },
+    {
+    "title": "Philly Antigone: Starring the 7th Grade of The E.M. Stanton School & Spaces of Possibility Praxis Class",
+    "description": "Goodhart Teaching Theater, Bryn MaWr College", 
+    "start": "2023-05-08T11:00:00",
+    "end": "2023-05-08T12:00:00"
     }
 ]
