@@ -25,9 +25,13 @@ gallery:
     class: carousel-item
 ---
 
-*Media/Medea* is a play by Pulitzer-winning playwright James Ijames that reimagines Euripides' *Medea* for the 21st century by foregrounding issues of race and familial conflict.
+Amid the searing canon of Greek tragedies, Euripides’ *Medea* must be one of the most shocking. Medea is the foreigner who leaves everything behind her to follow a lover who then betrays her. She is the mother who decides that the best revenge is to kill her own children. And the gods do not punish her, they reward and rescue her.
 
-World premiere performances of *Media/Medea* were held April 13 – 16 at the Bryn Mawr College Hepburn Teaching Theater, and April 20 – 22 at the Community College of Philadelphia’s Performance Theater.
+By the time Seneca wrote his own version of *Medea* more than four centuries after Euripides, the story was so well established that when Medea said, “I shall become Medea,” everyone knew what that meant: The play would move forward to its inevitable, terrible end, and there would be two small bloody corpses on the stage. 
+
+Modern versions of *Medea* tend to play with the foreigner motif. They find new ways to portray Medea as an outsider and hence to explain or condemn her violent actions. We asked James Ijames to write an adaptation that put Black lives at the center of the story. We wondered if that would mean a story about otherness and race.
+
+Nothing that predictable. Ijames’ take on the story is wholly original. At our first meeting he said, “I want to tell the story from the point of view of the children.” It is a breathtaking reversal of the narrative. And he has followed through. Ijames centers Black lives in the simple sense that this is a Black family—and in the complicated sense that this is an exceptional Black family, Black royalty, under constant scrutiny. That gives us our chorus of social media users, and our title *Media/Medea*. And it gives us our haunted sense of how terrible the stakes are, and how terrible the tensions swirling around these two children who just want to live their adolescent lives.
 
 An open-access version of Ijames' script will soon be made available on this website. 
 
