@@ -33,7 +33,7 @@ Modern versions of *Medea* tend to play with the foreigner motif. They find new 
 
 Nothing that predictable. Ijames’ take on the story is wholly original. At our first meeting he said, “I want to tell the story from the point of view of the children.” It is a breathtaking reversal of the narrative. And he has followed through. Ijames centers Black lives in the simple sense that this is a Black family—and in the complicated sense that this is an exceptional Black family, Black royalty, under constant scrutiny. That gives us our chorus of social media users, and our title *Media/Medea*. And it gives us our haunted sense of how terrible the stakes are, and how terrible the tensions swirling around these two children who just want to live their adolescent lives.
 
-<a href='../assets/Media-Medea_Ijames_ScriptPAVE.pdf' target="_blank"><button>View Script</button></a>
+<a href='/assets/Media-Medea_Ijames_ScriptPAVE.pdf' target="_blank"><button>View Script</button></a>
 
 {% include gallery.html %}
 
