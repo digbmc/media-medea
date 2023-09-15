@@ -5,23 +5,33 @@ permalink: /play
 
 gallery:
   - imgurl: image1.jpg
-    alt: "Medea/Media Rehearsal in Goodhart"
-    caption: "Medea/Media Rehearsal in Goodhart"
+    alt: "Three actors seated on a sectional sofa."
+    caption: "Media/Medea rehearsal in Goodhart Hall at Bryn Mawr College."
     class: carousel-item active
 
-  - imgurl: image2.jpg
-    alt: "alternative text"
-    caption: Medea Project Acting Class with Catherine Slusar
-    class: carousel-item
-
   - imgurl: image4.jpg
-    alt: "alternative text"
-    caption: "Medea/Media at CCP"
+    alt: "Three figures in a rehearsal space. Two are seated, one holding a script. The third person stands behind them."
+    caption: "Media/Medea rehearsal at Community College of Philadelphia."
     class: carousel-item
 
-  - imgurl: image6.jpg
-    alt: "medea"
-    caption: Medea Q&A with James Ijames
+  - imgurl: image11.jpg
+    alt: "Eight actors variously seated or standing behind a large table."
+    caption: "Media/Medea dress rehearsal. The Chorus, Devan, and Shel."
+    class: carousel-item
+
+  - imgurl: image12.jpg
+    alt: "Three actors seated on a sectional sofa. One has their legs crossed and looks nervous as another actor speaks and gestures."
+    caption: "Media/Medea dress rehearsal. Devan, Shel, and Jason."
+    class: carousel-item
+
+  - imgurl: image13.jpg
+    alt: "Two female actors stand closely facing each other. One wears a metalic mini dress and high heels, the other wears an orange maxi dress."
+    caption: "Media/Medea dress rehearsal. Shel and Medea."
+    class: carousel-item
+
+  - imgurl: image14.jpg
+    alt: "Two actors face each other making excited gestures. One wears an orange maxi dress, the other wears a purple tuxedo and men's dress shoes."
+    caption: "Media/Medea dress rehearsal. Medea and Devan."
     class: carousel-item
 ---
 
