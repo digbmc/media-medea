@@ -4,24 +4,35 @@ title: About
 permalink: /about
 
 gallery:
-  - imgurl: image1.jpg
-    alt: "Medea/Media Rehearsal in Goodhart"
-    caption: "Medea/Media Rehearsal in Goodhart"
-    class: carousel-item active
 
   - imgurl: image2.jpg
-    alt: "alternative text"
-    caption: Medea Project Acting Class with Catherine Slusar
+    alt: "Four people are seated on the floor, some with a book or notebook in front of them. One person speaks as the rest listen."
+    caption: "Medea Project Acting Class with Catherine Slusar."
     class: carousel-item
 
-  - imgurl: image4.jpg
-    alt: "alternative text"
-    caption: "Medea/Media at CCP"
+  - imgurl: image3.jpg
+    alt: "Three people are seated on the floor. One reads aloud from a book and gestures, the others listen."
+    caption: "Medea Project Acting Class with Catherine Slusar."
     class: carousel-item
 
   - imgurl: image6.jpg
-    alt: "medea"
-    caption: Medea Q&A with James Ijames
+    alt: "Three people at the front of a lecture hall before an audience. One is standing and speaking. The two others are seated at a table and listen to the speaker."
+    caption: "James Ijames and Ava Shirazi in conversation at Bryn Mawr College. With Catherine Conybeare."
+    class: carousel-item
+
+  - imgurl: image8.jpg
+    alt: "Three people at the front of a lecture hall before and audience. Two are standing, one contemplating with chin in hand as the other speaks. The third person is seated at the end of a table and listens."
+    caption: "James Ijames and Ava Shirazi in conversation at Bryn Mawr College. With Catharine Slusar."
+    class: carousel-item
+
+  - imgurl: image9.jpg
+    alt: "A young-adult speaks with a group of four or five young students who stand near them."
+    caption: "Bryn Mawr Praxis class at the E.M. Stanton School. Kay Strine '24."
+    class: carousel-item
+
+  - imgurl: image10.jpg
+    alt: "Three young-adults sit on the floor and speak to two other pictured individuals, one is sitting and the other standing."
+    caption: "Bryn Mawr Praxis class at the E.M. Stanton School. Bina Lee '25, Kay Strine '24, and Bethany Wisdom '24."
     class: carousel-item
 ---
 
