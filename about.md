@@ -4,11 +4,10 @@ title: About
 permalink: /about
 
 gallery:
-
   - imgurl: image2.jpg
     alt: "Four people are seated on the floor, some with a book or notebook in front of them. One person speaks as the rest listen."
     caption: "Medea Project Acting Class with Catherine Slusar."
-    class: carousel-item
+    class: carousel-item active
 
   - imgurl: image3.jpg
     alt: "Three people are seated on the floor. One reads aloud from a book and gestures, the others listen."
