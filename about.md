@@ -52,4 +52,11 @@ gallery:
 - Library & Information Technology Services (LITS), Bryn Mawr College: Digital Bryn Mawr Project Grant
 - Society of Classical Studies (SCS): Ancient Worlds, Modern Communities Grant
 
-## Personnel
+## Web Development
+
+- Stella Fritzell: Project Manager
+- Alice McGrath: Senior Digital Scholarship Specialist
+- Minolta Ndlovu: Web Developer
+- Yusi Liu: UX Designer
+- Grace Ciprissi: Accessibility Consultant
+- Arlowe Willingham: Development Consultant
