@@ -3,7 +3,7 @@ layout: post
 title: Press
 permalink: /press
 ---
-## [Medea/Media: a glitchy counterfactual]({{ site.baseurl }}/assets/Telo_Conybeare_ARticle.pdf)
+## [Medea/Media: a glitchy counterfactual]({{ site.baseurl }}/assets/Telo_Conybeare_Article.pdf)
 This article provides a reading of \[*Media/Medea*\], addressing the themes of irony, queer ‘authenticity’, acting, and mothering through the framing of the ‘glitchy counterfactual’ — a conceit we borrow from Legacy Russell’s manifesto for a new Black cyberfeminism ...
 
 ## ["Medea" Gets a Makeover: How an ambitious, intergenerational collaboration re-envisioned a classic Greek tragedy for our times](https://www.brynmawr.edu/bulletin/medea-gets-makeover)
